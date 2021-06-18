@@ -1,7 +1,7 @@
 <p>  Olá, me chamo <b> Ratex </b> e sempre busco mais conhecimento.
 <p>
 
-## About me 
+## Sobre mim
 - |  🗺️ Rio de Janeiro - Brazil
 - |  🍃 Entrei nesse mundo no atual ano.
 - |  📚 Por enquanto desenvolvo apenas em Css e HTML5, e pretendo começar à aprender Js.
