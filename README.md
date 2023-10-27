@@ -3,7 +3,7 @@
 
 ## Sobre mim
 - |  🗺️ Rio de Janeiro - Brazil
-- |  🍃 Entrei nesse mundo no ano atual.
+- |  🍃 Recomeçando...
 - |  📚 Por enquanto desenvolvo apenas em CSS e HTML, pretendo começar a aprender Js.
 - |  ☁️ Metas - Recolher o máximo de conhecimento possivel dessa vasta área da programação, e um dia poder programar conhecimento.
 
