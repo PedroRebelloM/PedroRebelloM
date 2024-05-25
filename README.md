@@ -3,7 +3,8 @@
 
 ## Sobre mim
 - |  🗺️ Rio de Janeiro - Brazil
-- |  👾Trabalhando em alguns projetos pessoais que logo logo se tornarão públicos!
+- |  👾 Trabalhando em alguns projetos pessoais que logo logo se tornarão públicos!
+- |  📚 Estudante de Machine Learning e Desenvolvimento de Softwares - Tentanto alcançar a conciliação entre ambos
   
 <h2>Contato</h2>
 
