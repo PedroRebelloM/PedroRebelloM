@@ -1,4 +1,4 @@
-<p>  Olá, me chamo <b> Ratex </b>
+<p>  Prazer, <b> Pedro! </b>
 <p>
 
 ## Sobre mim
