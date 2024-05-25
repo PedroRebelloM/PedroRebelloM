@@ -3,6 +3,7 @@
 
 ## Sobre mim
 - |  🗺️ Rio de Janeiro - Brazil
+- |  👾Trabalhando em alguns projetos pessoais que logo logo se tornarão públicos!
   
 <h2>Contato</h2>
 
