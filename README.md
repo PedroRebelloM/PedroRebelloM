@@ -1,12 +1,11 @@
 <p>  Prazer, <b> Pedro! </b>
 <p>
 
-## Sobre mim
-- |  🗺️ Rio de Janeiro - Brazil
-- |  👾 Trabalhando em alguns projetos pessoais que logo logo se tornarão públicos!
-- |  📚 Estudante de Machine Learning e Desenvolvimento de Softwares - Tentanto alcançar a conciliação entre ambos
-  
-<h2>Contato</h2>
+<div align="center">
+  <a href="https://github.com/pedrorebellom">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorebellom&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorebellom&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <p><a href="https://discord.gg/RkJc93sddJ" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
