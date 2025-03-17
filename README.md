@@ -7,5 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorebellom&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<br>
 <p><a href="https://discord.gg/RkJc93sddJ" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
